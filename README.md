@@ -37,27 +37,31 @@ Desenvolvedor **Full-Stack Jr** com experiência prática em aplicações web em
 - **Tech**: Next.js + NextAuth + Stripe + PostgreSQL/Prisma + AWS
 - **Features**: Autenticação, pagamentos recorrentes, analytics, timer em tempo real, sistema de questões, revisão de provas
 - **Desenvolvimento**: Construí todas as páginas do zero (login, dashboard, prova, resultados, configurações)
-- **Impacto**: Plataforma 0→1 com experiência completa de prova para mais de 1.000 usuários
+- **Deploy**: Setup completo em AWS EC2 + RDS + S3, com deploy e operação em produção
+- **Impacto**: Plataforma 0→1 com experiência completa de prova para mais de 10 usuários
 - **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/blueexams-mock-exam-platform.md)**
 
 ### 🌐 Landing Page de Vendas - Blue Exams
 - **Tech**: HTML/CSS/JS + AWS EC2 + Nginx + TLS
-- **Desenvolvimento**: Concepção e implementação da landing page, ajustes de UX/UI, deploy e operação em produção
 - **Features**: Página estática profissional, formulário de contato, otimização para conversão
+- **Desenvolvimento**: Concepção e implementação da landing page, ajustes de UX/UI, deploy e operação em produção
+- **Deploy**: Setup em AWS EC2 com Nginx, TLS/SSL e operação contínua
 - **Impacto**: Página de vendas profissional para capturar clientes potenciais
 - **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/blueexams-landing.md)**
 
 ### 🏢 Mindville - Produto B2B (Monorepo)
 - **Tech**: Next.js + Backend Node.js + PostgreSQL + APIs REST
-- **Desenvolvimento**: Contribuições full-stack no produto existente, participação em features e manutenção, apoio em banco de dados e debug
 - **Features**: Arquitetura escalável, múltiplos apps, documentação Swagger, multi-tenancy e segurança
+- **Desenvolvimento**: Contribuições full-stack no produto existente, participação em features e manutenção, apoio em banco de dados e debug
+- **Deploy**: Suporte a deploy e operação em ambiente de produção
 - **Impacto**: Entregas incrementais e manutenção de estabilidade, evolução de funcionalidades
 - **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/mindville-engagement-platform.md)**
 
 ### 🔄 MBA No Brainer - Migração Chatwoot
 - **Tech**: Docker + PostgreSQL + AWS S3 + Chatwoot
-- **Desenvolvimento**: Provisionamento e operação da aplicação em AWS, setup via Docker Compose, planejamento de migração de dados
 - **Features**: Setup completo, runbook de migração, validações e estratégia de rollback, ambiente operacional em cloud
+- **Desenvolvimento**: Provisionamento e operação da aplicação em AWS, setup via Docker Compose, planejamento de migração de dados
+- **Deploy**: Setup completo em AWS EC2 com Docker Compose, integração com RDS e S3
 - **Impacto**: Ambiente novo preparado e operável, runbook de migração com passos claros
 - **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/mba-no-brainer-chatwoot.md)**
 
