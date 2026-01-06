@@ -33,34 +33,34 @@ Desenvolvedor **Full-Stack Jr** com experiência prática em aplicações web em
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkosmel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkosmel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkosmel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9)
 
 ---
 
 ## 🌟 Destaques
 
-### 📱 Plataforma de Simulados por Assinatura
-- **Tech**: Next.js + NextAuth + Stripe + PostgreSQL/Prisma
-- **Features**: Autenticação, pagamentos, analytics, deploy em produção
-- **[📖 Case Study](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/blueexams-mock-exam-platform.md)**
+### 📱 Blue Exams - Plataforma Completa de Simulados
+- **Tech**: Next.js + NextAuth + Stripe + PostgreSQL/Prisma + AWS
+- **Features**: Autenticação, pagamentos recorrentes, analytics, timer em tempo real, deploy em produção
+- **Impacto**: Plataforma 0→1 com experiência completa de prova
+- **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/blueexams-mock-exam-platform.md)**
 
-### 🌐 Landing Page Estática
+### 🌐 Landing Page de Vendas
 - **Tech**: HTML/CSS/JS + AWS EC2 + Nginx + TLS
-- **Features**: Deploy manual, configuração de servidor web
-- **Performance**: Otimizada para produção
+- **Features**: Deploy manual, configuração de servidor web, otimização para conversão
+- **Impacto**: Página estática profissional com setup completo de infra
 
-### 🏢 Produto B2B (Monorepo)
-- **Tech**: Next.js + Backend Node.js + PostgreSQL
-- **Features**: Arquitetura escalável, múltiplos apps
-- **Contribuições**: Front-end e backend
+### 🏢 Mindville - Produto B2B (Monorepo)
+- **Tech**: Next.js + Backend Node.js + PostgreSQL + APIs REST
+- **Features**: Arquitetura escalável, múltiplos apps, documentação Swagger
+- **Impacto**: Contribuições em frontend e backend de produto corporativo
+- **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/mindville-engagement-platform.md)**
 
-### 🔄 Migração Chatwoot
-- **Tech**: Docker + PostgreSQL + AWS S3
-- **Features**: Setup completo, runbook de migração
-- **Resultado**: Sistema operacional em cloud
+### 🔄 MBA No Brainer - Migração Chatwoot
+- **Tech**: Docker + PostgreSQL + AWS S3 + Chatwoot
+- **Features**: Setup completo, runbook de migração, validação de dados
+- **Impacto**: Sistema operacional em cloud com migração segura
+- **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/mba-no-brainer-chatwoot.md)**
 
 ---
 
@@ -69,16 +69,6 @@ Desenvolvedor **Full-Stack Jr** com experiência prática em aplicações web em
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertokosmel/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roberto.m.kosmel@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkosmel/portfolio-roberto)
-
----
-
-## 📂 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/rkosmel/portfolio-roberto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkosmel&repo=portfolio-roberto&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9" alt="Portfolio Repository"/>
-  </a>
-</div>
 
 ---
 
