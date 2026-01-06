@@ -42,21 +42,23 @@ Desenvolvedor **Full-Stack Jr** com experiência prática em aplicações web em
 
 ### 🌐 Landing Page de Vendas - Blue Exams
 - **Tech**: HTML/CSS/JS + AWS EC2 + Nginx + TLS
+- **Desenvolvimento**: Concepção e implementação da landing page, ajustes de UX/UI, deploy e operação em produção
 - **Features**: Página estática profissional, formulário de contato, otimização para conversão
-- **Desenvolvimento**: Design responsivo, copy persuasiva, integração com formulário de lead
 - **Impacto**: Página de vendas profissional para capturar clientes potenciais
-- **[📖 Ver Projeto](https://github.com/rkosmel/portfolio-roberto)**
+- **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/blueexams-landing.md)**
 
 ### 🏢 Mindville - Produto B2B (Monorepo)
 - **Tech**: Next.js + Backend Node.js + PostgreSQL + APIs REST
-- **Features**: Arquitetura escalável, múltiplos apps, documentação Swagger
-- **Impacto**: Contribuições em frontend e backend de produto corporativo
+- **Desenvolvimento**: Contribuições full-stack no produto existente, participação em features e manutenção, apoio em banco de dados e debug
+- **Features**: Arquitetura escalável, múltiplos apps, documentação Swagger, multi-tenancy e segurança
+- **Impacto**: Entregas incrementais e manutenção de estabilidade, evolução de funcionalidades
 - **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/mindville-engagement-platform.md)**
 
 ### 🔄 MBA No Brainer - Migração Chatwoot
 - **Tech**: Docker + PostgreSQL + AWS S3 + Chatwoot
-- **Features**: Setup completo, runbook de migração, validação de dados
-- **Impacto**: Sistema operacional em cloud com migração segura
+- **Desenvolvimento**: Provisionamento e operação da aplicação em AWS, setup via Docker Compose, planejamento de migração de dados
+- **Features**: Setup completo, runbook de migração, validações e estratégia de rollback, ambiente operacional em cloud
+- **Impacto**: Ambiente novo preparado e operável, runbook de migração com passos claros
 - **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/mba-no-brainer-chatwoot.md)**
 
 ---
