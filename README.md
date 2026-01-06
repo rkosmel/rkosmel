@@ -31,14 +31,12 @@ Desenvolvedor **Full-Stack Jr** com experiência prática em aplicações web em
 
 ---
 
----
-
 ## 🌟 Destaques
 
 ### 📱 Blue Exams - Plataforma Completa de Simulados
 - **Tech**: Next.js + NextAuth + Stripe + PostgreSQL/Prisma + AWS
 - **Features**: Autenticação, pagamentos recorrentes, analytics, timer em tempo real, sistema de questões, revisão de provas
-- **Desenvolvimento**: Construí TODAS as páginas do zero (login, dashboard, prova, resultados, configurações)
+- **Desenvolvimento**: Construí todas as páginas do zero (login, dashboard, prova, resultados, configurações)
 - **Impacto**: Plataforma 0→1 com experiência completa de prova para mais de 1.000 usuários
 - **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/blueexams-mock-exam-platform.md)**
 
@@ -47,6 +45,7 @@ Desenvolvedor **Full-Stack Jr** com experiência prática em aplicações web em
 - **Features**: Página estática profissional, formulário de contato, otimização para conversão
 - **Desenvolvimento**: Design responsivo, copy persuasiva, integração com formulário de lead
 - **Impacto**: Página de vendas profissional para capturar clientes potenciais
+- **[📖 Ver Projeto](https://github.com/rkosmel/portfolio-roberto)**
 
 ### 🏢 Mindville - Produto B2B (Monorepo)
 - **Tech**: Next.js + Backend Node.js + PostgreSQL + APIs REST
