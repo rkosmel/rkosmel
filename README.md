@@ -31,24 +31,22 @@ Desenvolvedor **Full-Stack Jr** com experiência prática em aplicações web em
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkosmel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9&icon_color=0ea5e9)
-
 ---
 
 ## 🌟 Destaques
 
 ### 📱 Blue Exams - Plataforma Completa de Simulados
 - **Tech**: Next.js + NextAuth + Stripe + PostgreSQL/Prisma + AWS
-- **Features**: Autenticação, pagamentos recorrentes, analytics, timer em tempo real, deploy em produção
-- **Impacto**: Plataforma 0→1 com experiência completa de prova
+- **Features**: Autenticação, pagamentos recorrentes, analytics, timer em tempo real, sistema de questões, revisão de provas
+- **Desenvolvimento**: Construí TODAS as páginas do zero (login, dashboard, prova, resultados, configurações)
+- **Impacto**: Plataforma 0→1 com experiência completa de prova para mais de 1.000 usuários
 - **[📖 Case Study Completo](https://github.com/rkosmel/portfolio-roberto/blob/main/case-studies/blueexams-mock-exam-platform.md)**
 
-### 🌐 Landing Page de Vendas
+### 🌐 Landing Page de Vendas - Blue Exams
 - **Tech**: HTML/CSS/JS + AWS EC2 + Nginx + TLS
-- **Features**: Deploy manual, configuração de servidor web, otimização para conversão
-- **Impacto**: Página estática profissional com setup completo de infra
+- **Features**: Página estática profissional, formulário de contato, otimização para conversão
+- **Desenvolvimento**: Design responsivo, copy persuasiva, integração com formulário de lead
+- **Impacto**: Página de vendas profissional para capturar clientes potenciais
 
 ### 🏢 Mindville - Produto B2B (Monorepo)
 - **Tech**: Next.js + Backend Node.js + PostgreSQL + APIs REST
