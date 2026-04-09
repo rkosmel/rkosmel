@@ -11,7 +11,7 @@ Desenvolvedor Full-Stack Jr com forte experiência em codificação e construç�
 
 Tenho habilidade sólida em stacks modernas como Next.js, React, Node.js e AWS, sempre buscando criar soluções escaláveis e estáveis. Fora da programação, sou apaixonado por basquete - jogo há anos e levo muito a sério tanto os treinos quanto as competições universitárias. Também curto muito videogames, tecnologia e estou sempre explorando novas inovações para tirar ideias do papel.
 
-Busco constantemente desafios que me permitam crescer technicalmente e contribuir com projetos que façam diferença.
+Busco constantemente desafios que me permitam crescer tecnicamente e contribuir com projetos que façam diferença.
 
 ---
 
